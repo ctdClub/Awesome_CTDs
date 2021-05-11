@@ -70,6 +70,7 @@ Calculated parameters:
 - [ctd-methods](https://calcofi.org/about-calcofi/methods/119-ctd-methods.html)
 - [UNESCO Pressure to Depth](https://www.navlab.net/Publications/From_Pressure_to_Depth_-_Estimation_of_underwater_vertical_position.pdf)
 - [google: CTD formula UNESCO](https://www.google.com/search?q=UNESCO+formulae+CTD&newwindow=1&safe=strict&sxsrf=ALeKk011VhZo7GQW26tHxEuH5vPLO-8Xtg%3A1620618634954&ei=iq2YYJ70ONbT-wSRyKWoCg&oq=UNESCO+formulae+CTD&gs_lcp=Cgdnd3Mtd2l6EANQ3owUWN6MFGCpnBRoAHAAeACAAY8CiAHwA5IBAzItMpgBAKABAqABAaoBB2d3cy13aXrAAQE&sclient=gws-wiz&ved=0ahUKEwie4bTwmr7wAhXW6Z4KHRFkCaUQ4dUDCA8&uact=5)
+- [Seabird Third Party Equipment](https://www.seabird.com/products/third-party-equipment)
 
 ## Log
 
