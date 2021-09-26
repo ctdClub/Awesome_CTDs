@@ -3,7 +3,8 @@
 
 The are many CTDs used in the world to test the basic parameters of the sea. Here are the list of the Oceanographic, Hydrographic and Hydrometric Instruments.
 
-## 2. CTD Manufacturer
+## 2. CTD Manufacturers abroad
+
 ### 2.1 [Sea Bird](https://www.seabird.com/)(USA)
 
 ### 2.2 [RBR](https://rbr-global.com/)(Canada)
@@ -16,15 +17,45 @@ The are many CTDs used in the world to test the basic parameters of the sea. Her
 
 ### 2.6 [Valeport](https://www.valeport.co.uk/products/)(UK)
 
-### 2.7 [NOTC](http://www.notcsoa.org.cn/cn/index/show/3043)(China)
+### 2.7 [Aanderaa](https://www.aanderaa.com/about)( Norway)
 
-……more to add.
+> Aanderaa Data Instruments，AADI；a branch of Xylem. 
 
-## 3.CTD Types & Specifications
+- 2.8 AML(Canada)
+
+- 2.9 Odom(US)
+
+- 2.10 Xylem(US)
+
+- 2.11 YSI(USA)
+
+- 2.12  TSK(JP)
+
+- 2.13 NKE(France)
+
+- 2.14 KELLER(Switzerland)
+
+## 3.CTD Manufacturer in CN
+
+###  [NOTC](http://www.notcsoa.org.cn/cn/index/show/3043)(China)
+
+国家海洋技术中心
+山东科学院仪器仪表研究所
+杭州浅海科技有限责任公司
+海鹰加科公司
+青岛道万科技有限公司
+北京麦润海通科技有限公司
+中国科学院南海海洋研究所
+中国科学院深海科学与工程研究所
+广州海洋地质调查局
+华北电力大学（保定）
+吉林大学
+
+## 4.CTD Types & Specifications
 
 
 
-## 4.solo Sensors
+## 5.solo Sensors
 
 以下内容源自：[这里-Multiparameter probe CTD 48M](https://www.sea-sun-tech.com/product/multiparameter-probe-ctd-48-memory/#detail)
 
@@ -48,15 +79,17 @@ Calculated parameters:
 - Kappa 25 mS/cm
 - sigma
 
-## 5.ONQI
+## 6.ONQI
 
 > Ocean National Quality Infrastructure:
 
-### 5.1 NCOSM
+### 6.1 NCOSM(China)
 
-### 5.2 CSIRO
+### 6.2 CSIRO(Australia)
 
-### 5.3 JAMSTEC
+### 6.3 JAMSTEC(Japan)
+
+UK
 
 
 
@@ -76,4 +109,5 @@ Calculated parameters:
 
 - 210507 Xiaoyan Created.
 - 210510 update.
+- 210926 update.
 
